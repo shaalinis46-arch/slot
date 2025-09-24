@@ -112,8 +112,8 @@ slot.html
 ~~~
 
 ## OUTPUT
-![alt text](timetable/timetable/logo.png)
 
+![alt text](<Screenshot (33).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
